@@ -1,0 +1,24 @@
+ Modeling of the spread of disease using Cellular Automata and Nearest Neighbor Interactions
+Depending on the institution and particular definitional boundaries employed, some major branches of bioengineering may be categorized as (note these may overlap):
+
+Biomedical Engineering: application of engineering principles and design concepts to medicine and biology for healthcare purposes[17]
+Tissue Engineering
+Genetic Engineering
+Neural engineering
+Pharmaceutical engineering
+Clinical engineering
+Bioinformatics
+Biomechanics
+Biochemical Engineering: fermentation engineering, application of engineering principles to microscopic biological systems that are used to create new products by synthesis, including the production of protein from suitable raw materials[17]
+Biological Systems Engineering: application of engineering principles and design concepts to agriculture, food sciences, and ecosystems.[7]
+Bioprocess Engineering: develops technology to monitor the conditions of the where the process of making pharmaceuticals takes place[17], (Ex: bioprocess design, biocatalysis, bioseparation, bioinformatics, bioenergy)
+Environmental Health Engineering: application of engineering principles to the control of the environment for the health, comfort, and safety of human beings. It includes the field of life-support systems for the exploration of outer space and the ocean[17]
+Human-Factors Engineering: application of engineering, physiology, and psychology to the optimization of the human–machine relationship[17]
+Biotechnology: the use of living systems and organisms to develop or make products[18]. (Ex: pharmaceuticals)[17]
+Biomimetics: the imitation of models, systems, and elements of nature for the purpose of solving complex human problems. (Ex: velcro, designed after George de Mestral noticed how easily burs stuck to a dog's hair)[19]\
+Bioelectrical Engineering:
+Biomechanical Engineering:
+Bionics: an integration of Biomedical, focused more on the robotics and assisted technologies. (Ex: prosthetics)[17]
+Bioprinting: utilizing biomaterials to print organs and new tissues[20]
+Biorobotics: (Ex: prosthetics)
+Systems Biology: The study of biological systems.

@@ -1,0 +1,465 @@
+
+
+Parties
+
+
+Democratic
+Republican
+Populist
+
+Bold denotes election winner.
+
+
+Presidential electoral votes in the Mountain States since 1864
+
+
+Year
+Arizona
+Colorado
+Idaho
+Montana
+Nevada
+New Mexico
+Utah
+Wyoming
+
+
+1864
+No election
+No election
+No election
+No election
+Lincoln
+No election
+No election
+No election
+
+
+1868
+No election
+No election
+No election
+No election
+Grant
+No election
+No election
+No election
+
+
+1872
+No election
+No election
+No election
+No election
+Grant
+No election
+No election
+No election
+
+
+1876
+No election
+Hayes
+No election
+No election
+Hayes
+No election
+No election
+No election
+
+
+1880
+No election
+Garfield
+No election
+No election
+Hancock
+No election
+No election
+No election
+
+
+1884
+No election
+Blaine
+No election
+No election
+Blaine
+No election
+No election
+No election
+
+
+1888
+No election
+Harrison
+No election
+No election
+Harrison
+No election
+No election
+No election
+
+
+1892
+No election
+Weaver
+Weaver
+Harrison
+Weaver
+No election
+No election
+Harrison
+
+
+1896
+No election
+Bryan
+Bryan
+Bryan
+Bryan
+No election
+Bryan
+Bryan
+
+
+1900
+No election
+Bryan
+Bryan
+Bryan
+Bryan
+No election
+McKinley
+McKinley
+
+
+1904
+No election
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+No election
+Roosevelt
+Roosevelt
+
+
+1908
+No election
+Bryan
+Taft
+Taft
+Bryan
+No election
+Taft
+Taft
+
+
+1912
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+Taft
+Wilson
+
+
+1916
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+Wilson
+
+
+1920
+Harding
+Harding
+Harding
+Harding
+Harding
+Harding
+Harding
+Harding
+
+
+1924
+Coolidge
+Coolidge
+Coolidge
+Coolidge
+Coolidge
+Coolidge
+Coolidge
+Coolidge
+
+
+1928
+Hoover
+Hoover
+Hoover
+Hoover
+Hoover
+Hoover
+Hoover
+Hoover
+
+
+1932
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+
+
+1936
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+
+
+1940
+Roosevelt
+Willkie
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+
+
+1944
+Roosevelt
+Dewey
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Roosevelt
+Dewey
+
+
+1948
+Truman
+Truman
+Truman
+Truman
+Truman
+Truman
+Truman
+Truman
+
+
+1952
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+
+
+1956
+Εisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+Eisenhower
+
+
+1960
+Nixon
+Nixon
+Nixon
+Nixon
+Kennedy
+Kennedy
+Nixon
+Nixon
+
+
+1964
+Goldwater
+Johnson
+Johnson
+Johnson
+Johnson
+Johnson
+Johnson
+Johnson
+
+
+1968
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+
+
+1972
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+Nixon
+
+
+1976
+Ford
+Ford
+Ford
+Ford
+Ford
+Ford
+Ford
+Ford
+
+
+1980
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+
+
+1984
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+
+
+1988
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+
+
+1992
+Bush
+Clinton
+Bush
+Clinton
+Clinton
+Clinton
+Bush
+Bush
+
+
+1996
+Clinton
+Dole
+Dole
+Dole
+Clinton
+Clinton
+Dole
+Dole
+
+
+2000
+Bush
+Bush
+Bush
+Bush
+Bush
+Gore
+Bush
+Bush
+
+
+2004
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+
+
+2008
+McCain
+Obama
+McCain
+McCain
+Obama
+Obama
+McCain
+McCain
+
+
+2012
+Romney
+Obama
+Romney
+Romney
+Obama
+Obama
+Romney
+Romney
+
+
+2016
+Trump
+Clinton
+Trump
+Trump
+Clinton
+Clinton
+Trump
+Trump
+
+
+Year
+Arizona
+Colorado
+Idaho
+Montana
+Nevada
+New Mexico
+Utah
+Wyoming
+
